@@ -10,7 +10,7 @@
 #include <assert.h>
 
 
-#define LOCAL_BUF_SIZE 2048
+#define LOCAL_BUF_SIZE 4096
 
 #ifndef HLS
 int truss_decomposition(int *edge_tc, 
